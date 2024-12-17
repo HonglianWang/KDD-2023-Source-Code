@@ -1,4 +1,4 @@
-# KDD-2023-Source-Code
+# Minimizing Hitting Time between Disparate Groups with Shortcut Edges
 
 
 
